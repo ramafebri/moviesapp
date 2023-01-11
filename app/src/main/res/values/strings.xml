@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="detail_activity">Detail</string>
+    <string name="video_activity">Video</string>
+
+    <!-- Movies -->
+    <string name="choose_genres">Pilih Genre</string>
+    <string name="genre">Genre</string>
+    <string name="rating_text">Rating: %s</string>
+    <string name="duration_text">Duration: %s minutes</string>
+    <string name="genres_text">Genre: \n%s</string>
+    <string name="overview">Overview</string>
+    <string name="user_review">User Review</string>
+    <string name="no_user_review">No User Review</string>
+    <string name="see_all_review">See All Review</string>
+    <string name="trailer">Trailer</string>
+    <string name="no_trailer">No Trailer</string>
+
+    <!-- Error Message -->
+    <string name="message_error_default">Terjadi kesalah sistem</string>
+</resources>

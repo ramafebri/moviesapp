@@ -32,8 +32,8 @@ android {
         }
         debug {
             debuggable true
-            minifyEnabled false
-            shrinkResources false
+            minifyEnabled true
+            shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
             buildConfigField "String", "BASE_URL", '"https://api.themoviedb.org/3/"'
             buildConfigField "String", "API_KEY", '"7b4115d0eb2b288c943ffcb79cdb36a7"'
